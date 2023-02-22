@@ -13,22 +13,22 @@
 .footer__link:last-of-type {
   margin: 0;
 }
-@media screen and  (max-width: 768px) {
-    .footer__link {
-        font-size: calc(1px + (15 — 1) * ((100vw — 540) / (768 — 540)));
-      }
+@media screen and (max-width: 768px) {
+  .footer__link {
+    font-size: calc(10px + (16 - 10) * ((100vw - 540px) / (768 - 540)));
+  }
 }
 @media screen and (max-width: 539px) {
-    .footer__link {
-        width: 100%;
-        margin-bottom: 32px;
-        font-weight: 400;
-        font-size: 24px;
-        line-height: 24px;
-      }
+  .footer__link {
+    width: 100%;
+    margin-bottom: 32px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 24px;
+  }
 }
 @media screen and (max-width: 539px) {
-    .footer__link:last-of-type {
-        margin-bottom: 48px;
-      }
+  .footer__link:last-of-type {
+    margin-bottom: 48px;
+  }
 }
