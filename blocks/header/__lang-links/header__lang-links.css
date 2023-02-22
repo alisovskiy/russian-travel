@@ -1,0 +1,8 @@
+.header__lang-links {
+  list-style-type: none;
+  display: inline-flex;
+  color: #ffffff;
+  font-family: "inter", Arial, Helvetica, sans-serif;
+  margin: 0 0 5px 0;
+  align-self: end;
+}

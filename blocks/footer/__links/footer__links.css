@@ -1,0 +1,11 @@
+.footer__links {
+  display: flex;
+  justify-content: space-between;
+}
+@media screen and (max-width: 539px) {
+    .footer__links {
+        display: flex;
+        max-width: 186px;
+        flex-direction: column;
+      }
+}

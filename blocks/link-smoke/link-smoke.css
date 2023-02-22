@@ -1,0 +1,6 @@
+.link-smoke {
+  transition: opacity 0.2s linear;
+}
+.link-smoke:hover {
+  opacity: 0.4;
+}
