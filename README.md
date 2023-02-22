@@ -13,4 +13,7 @@
 - Flex позиционирование элементов и блоков,
   а так же ранее изученные технологии.
 
-ссылка на GitHub Pages.
+  ***
+
+ссылка на GitHub Pages:
+https://alisovskiy.github.io/russian-travel/
