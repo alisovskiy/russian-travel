@@ -11,12 +11,11 @@
   color: #ffffff;
   text-decoration: none;
   max-width: 29px;
-  max-height: 30px;
   box-sizing: border-box;
 }
 @media screen and (max-width: 539px) {
-    .header__lang-link {
-        font-size: 18px;
-        line-height: 20px;
-      }
+  .header__lang-link {
+    font-size: 18px;
+    line-height: 20px;
+  }
 }

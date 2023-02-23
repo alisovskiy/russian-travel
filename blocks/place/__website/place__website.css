@@ -3,11 +3,10 @@
   display: block;
   align-self: end;
   max-width: 456px;
-  max-height: 46px;
 }
 @media screen and (max-width: 539px) {
-    .place__website {
-        padding-left: 16px;
-        padding-right: 16px;
-      }
+  .place__website {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
 }
