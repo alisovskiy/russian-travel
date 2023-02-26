@@ -3,23 +3,14 @@
   margin: 0 auto 8px;
   display: flex;
 }
-@media screen and  (max-width: 1279px) {
-    .lead__image {
-        max-width: calc(100% - 96px);
-      }
+@media screen and (max-width: 1279px) {
+  .lead__image {
+    max-width: calc(100% - 96px);
+  }
 }
-@media screen and  (max-width: 1024px) {
-    .lead__image {
-        max-width: calc(100% - 96px);
-      }
-}
-@media screen and  (max-width: 768px) {
-    .lead__image {
-        max-width: 100%;
-      }
-}
-@media screen and (max-width: 539px) {
-    .lead__image {
-        max-width: 100%;
-      }
+
+@media screen and (max-width: 768px) {
+  .lead__image {
+    max-width: 100%;
+  }
 }

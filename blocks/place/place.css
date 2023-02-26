@@ -18,24 +18,15 @@
     row-gap: 48px;
   }
 }
-@media screen and (max-width: 1024px) {
-  .place {
-    grid-template-columns: repeat(2, minmax(200px, 440px));
-    column-gap: 32px;
-    row-gap: 48px;
-  }
-}
+
 @media screen and (max-width: 768px) {
   .place {
     grid-template-columns: minmax(200px, 340px) minmax(200px, 540px);
-    column-gap: 32px;
-    row-gap: 48px;
   }
 }
 @media screen and (max-width: 768px) {
   .place {
     column-gap: 28px;
-    row-gap: 48px;
     padding-bottom: 73px;
   }
 }
