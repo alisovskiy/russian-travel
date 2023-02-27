@@ -3,6 +3,7 @@
   grid-template-columns: repeat(1, minmax(50px, 1fr));
   background-image: url(../../../images/cover-trains.jpg);
   background-size: cover;
+  background-position: center;
   max-width: 1184px;
   margin: auto;
   margin-bottom: 92px;

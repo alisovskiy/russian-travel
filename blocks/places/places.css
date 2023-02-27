@@ -2,6 +2,7 @@
   display: grid;
   padding: 0px 148px 92px;
   margin: 0;
+  justify-content: center;
 }
 @media screen and (max-width: 1279px) {
   .places {
